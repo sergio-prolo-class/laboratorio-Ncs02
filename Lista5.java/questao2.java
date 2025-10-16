@@ -14,7 +14,7 @@ public class questao2 {
 
         int presenca = sc.nextInt();
 
-        System.err.printf("Média = %.1f %s%n ", nota, nota >= 6 && presenca >= 75 ? "Aprovado" : "Reprovado");
+        System.out.printf("Média = %.1f %s%n ", nota, nota >= 6 && presenca >= 75 ? "Aprovado" : "Reprovado");
 
 
 
