@@ -8,8 +8,8 @@ public class matematica {
         double numero1, numero2 = sc.nextDouble();
         double resultado ;
             switch (operador) { 
-               case '+' : resultado = numero1 + numero2;
-               break;
+               case '+' -> resultado = numero1 + numero2;
+               
                }
 
 

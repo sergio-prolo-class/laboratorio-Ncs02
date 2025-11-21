@@ -14,7 +14,7 @@ public class questao3 {
             }
        while (vitalidade!= armazenador) {
         switch (classe) {
-            case 1 -> { 
+            case 1 -> {}
                 
         }
        }
